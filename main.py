@@ -1,5 +1,4 @@
 from math import pi
-from time import time
 
 # everything is in cm
 GRAVITY = 980 #cm/s^2
